@@ -1,8 +1,4 @@
-# CoLab Notebook
-
-*This is a teplate repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
-
-Add your DOI Zenodo badge here.
+# \#semanticClimate Tools Demo - CoLab Notebook
 
 A Jupyter Notebook from #semantic*Climate* - Liberating knowledge from climate-related reports
 
@@ -12,10 +8,4 @@ License information: [LICENSE](LICENSE)
 
 ## Software Citation
 
-Add your name and ORCID in the CITATION.cff file to be attributed for your code contributions. Make a pull request after editing.
-
-Edit Citation File Format: [CITATION.cff](CITATION.cff)
-
-About Citation File Format: https://citation-file-format.github.io/
-
-
+Software credits here: [CITATION.cff](CITATION.cff)
